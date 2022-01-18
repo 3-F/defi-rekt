@@ -4,7 +4,7 @@ import { getAddress } from "ethers/lib/utils";
 import { ethers } from "hardhat";
 
 describe("Greeter", function () {
-  it("desc ...", async function () {
+  it("use fallback bypass weth.permit", async function () {
     const accounts = await ethers.getSigners()
     const hacker = await accounts[0].getAddress();
 
