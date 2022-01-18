@@ -12,7 +12,7 @@ describe("Greeter", function () {
     const greeter = await Greeter.deploy(hacker);
 
     await greeter.deployed();
-    await greeter.greet(["0x7f4bae93c21b03836d20933ff55d9f77e5b8d34d", "0x57633FB641bACd59382b0C333D47C1A4AA2D7de4"]);
+    await greeter.greet("Happy Hack");
 
   });
 });
