@@ -16,7 +16,7 @@ contract Greeter {
         owner = msg.sender;
     }
 
-    function greet(string data) external {
+    function greet(string data) external onlyOwner {
         console.log(data);
     }
 }
