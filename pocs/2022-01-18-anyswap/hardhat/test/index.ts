@@ -6,10 +6,10 @@ import { ethers } from "hardhat";
 describe("Greeter", function () {
   it("use fallback bypass weth.permit", async function () {
     const accounts = await ethers.getSigners()
-    const hacker = await accounts[0].getAddress();
+    const hacker = await accounts[0];
 
-    const Greeter = await ethers.getContractFactory("Greeter");
-    const greeter = await Greeter.deploy(hacker);
+    const Greeter = await ethers.getContractFactory("Greeter", hacker);
+    const greeter = await Greeter.deploy();
 
     await greeter.deployed();
     await greeter.greet(["0x7f4bae93c21b03836d20933ff55d9f77e5b8d34d", "0x57633FB641bACd59382b0C333D47C1A4AA2D7de4"]);

