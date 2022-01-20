@@ -17,6 +17,10 @@ interface IAnyswapRouterV4 {
     ) external;
 }
 
+interface IPermitToken {
+    function permit(address target, address spender, uint256 value, uint256 deadline, uint8 v, bytes32 r, bytes32 s) external;
+}
+
 contract FakeToken {
     address public immutable underlying = 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2;
 
