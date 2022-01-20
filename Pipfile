@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 eth-brownie = "*"
+rich = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
