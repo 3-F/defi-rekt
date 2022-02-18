@@ -23,7 +23,7 @@ def main():
     print(weth_pair_tokens_uni)
     l = Luck.deploy({'from': hacker})
     l.good_luck(weth_pair_tokens_uni, {'from': hacker, 'value': 1e21})
-
+    print('profit: ', (l.balance() - 1e21)/1e18, ' ETH')
 
 def get_all_weth_pair_tokens():
     data = {}
