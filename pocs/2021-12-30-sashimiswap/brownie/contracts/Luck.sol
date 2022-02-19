@@ -4,6 +4,7 @@ pragma solidity ^0.8.0;
 import "./Token.sol";
 import "./interfaces/IUniswapRouter.sol";
 import "./interfaces/IUniswapFactory.sol";
+import "./interfaces/IWeth.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract Luck {

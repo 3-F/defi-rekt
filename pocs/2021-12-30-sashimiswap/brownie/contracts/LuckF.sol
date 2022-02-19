@@ -6,12 +6,7 @@ import "./dydx/contracts/DydxFlashloanBase.sol";
 import "./Token.sol";
 import "./interfaces/IUniswapRouter.sol";
 import "./interfaces/IUniswapFactory.sol";
-
-interface IWETH {
-    function deposit() external payable;
-
-    function withdraw(uint) external;
-}
+import "./interfaces/IWeth.sol";
 
 contract LuckF is DydxFlashloanBase {
     address private owner;
