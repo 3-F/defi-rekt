@@ -1,38 +1,17 @@
+import re
 from brownie import accounts, interface
 import json
 from tqdm import tqdm
-'''
-{
-    "pair_addr": {
-        "token0": {
-            "addr: _,
-            "symbol": _,
-            "reserve_in_pair": _,
-            "pairs[pair][token]": _,
-            "balanceOf(router)": _ 
-        },
-        "token1": {
-            "addr: _,
-            "symbol": _,
-            "reserve_in_pair": _,
-            "pairs[pair][token]": _,
-            "balanceOf(router)": _ 
-        },
-    }
-}
-'''
 
 def main():
     user = accounts[0]
     router = interface.ISashimiRouter('0xe4FE6a45f354E845F954CdDeE6084603CEDB9410')
-    factory = interface.ISashimiFactory('0xF028F723ED1D0fE01cC59973C49298AA95c57472')
-    len_all_pairs = factory.allPairsLength()
-    all_pairs = []
-    for i in tqdm(range(len_all_pairs)):
-        all_pairs.append(interface.ISashimiPair(factory.allPairs(i)))
-    print(f'All pairs in sashimiswap: {[p.address for p in all_pairs]}')
+    data = {}
+    with open('./data/agg.json') as f:
+        data = json.load(f)
     res = {}
-    for pair in tqdm(all_pairs):
+    for p in tqdm(data.keys()):
+        pair = interface.ISashimiPair(p)
         token0 = interface.ERC20(pair.token0())
         token1 = interface.ERC20(pair.token1())
         r0, r1, _ = pair.getReserves()
@@ -52,7 +31,8 @@ def main():
                 "balance_reserve": token1.balanceOf(router.address)
             }
         }
-    with open('./data/agg.json', 'w') as f:
-        json.dump(res, f)
-
     
+    print(res)
+
+    with open('./data/pairs_latestls.json', 'w') as f:
+        json.dump(res, f)
