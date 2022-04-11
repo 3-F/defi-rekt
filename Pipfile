@@ -1,16 +1,14 @@
 [[source]]
-url = "https://pypi.python.org/simple"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 verify_ssl = true
-name = "pypi"
+name = "custom"
 
 [packages]
 eth-brownie = "*"
-rich = "*"
 
 [dev-packages]
+eth-brownie="1.18.1"
+rich="*"
 
 [requires]
 python_version = "3.8"
-
-[pipenv]
-allow_prereleases = true
