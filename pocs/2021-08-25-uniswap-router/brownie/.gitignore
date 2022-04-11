@@ -1,0 +1,7 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+scripts/data/bakup
+./info.log

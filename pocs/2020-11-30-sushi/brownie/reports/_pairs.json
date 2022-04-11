@@ -1,0 +1,1477 @@
+[
+    {
+        "token0": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+        "token1": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+        "price": 432983322501713.2
+    },
+    {
+        "token0": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 432983241744427.2
+    },
+    {
+        "token0": "0x623B3917719A3cef1A5d75E8F0aD37A45031a4d5",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 401123426827008.9
+    },
+    {
+        "token0": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1000000000000.0
+    },
+    {
+        "token0": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+        "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "price": 1000000000000.0
+    },
+    {
+        "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "token1": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+        "price": 661967776105.686
+    },
+    {
+        "token0": "0x11d147e8d39F59aF00e159C4b1fe3a31D58A2C66",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 550666685594.7831
+    },
+    {
+        "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "token1": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+        "price": 331048276218.5521
+    },
+    {
+        "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "token1": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+        "price": 331048276184.2771
+    },
+    {
+        "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "price": 331048276184.27496
+    },
+    {
+        "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 331048276184.27484
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+        "price": 330919499921.41125
+    },
+    {
+        "token0": "0x37472814e5c6146E6cA7ED1753CD1B18B733E5d4",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 47275290856.77795
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD26c338fBf7E02dd8711424567B2BABA3d5DCE3A",
+        "price": 9492757855.333334
+    },
+    {
+        "token0": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 7457144628.3109
+    },
+    {
+        "token0": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 5500106652.791551
+    },
+    {
+        "token0": "0x123151402076fc819B7564510989e475c9cD93CA",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 5004860813.229527
+    },
+    {
+        "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 3913140873.5872555
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+        "price": 3461576630.666407
+    },
+    {
+        "token0": "0x3BBaf639f381B2D75B321903A921850fc2Fe1538",
+        "token1": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+        "price": 3461576630.666407
+    },
+    {
+        "token0": "0x44f3eF76B4F277e6C78c9d363Ffd18a34a761940",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2191399091.679312
+    },
+    {
+        "token0": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957293397.4849873
+    },
+    {
+        "token0": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957038020.5171242
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xEe8A808C478d14aec57f874351177d80D02ce454",
+        "price": 1957037975.5453491
+    },
+    {
+        "token0": "0x031BBeCC1b4a541aA8170E3dFbbD51c279BF4368",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.522401
+    },
+    {
+        "token0": "0xBB14B9B385ca3bd3668BbA114b555B3a3e1fA705",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.5222015
+    },
+    {
+        "token0": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.5221794
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.5220706
+    },
+    {
+        "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.5213113
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xf057D77Ba8ca6DC51427C1Dfd66dDba0664feD54",
+        "price": 1957037975.5196273
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.5194743
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x6eB4bfa928cB0e92cA0826E4b7E67828C3D57E01",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0xbc766B23F820BE4315F8CA8e527Dd3b4B1B13233",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x6102407f07029892eB5Ff02164ADFaFb85f4d222",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xDEE0FeF656D1b84Cf0967274eFE75C7A36BaD813",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "token1": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x25901F2a5A4bb0aaAbe2CDb24E0E15A0d49B015d",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
+        "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "price": 1957037975.519349
+    },
+    {
+        "token0": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0711296
+    },
+    {
+        "token0": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0710661
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0706277
+    },
+    {
+        "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0698683
+    },
+    {
+        "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "token1": "0xf057D77Ba8ca6DC51427C1Dfd66dDba0664feD54",
+        "price": 1956102898.0681844
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0680313
+    },
+    {
+        "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "token1": "0xba4418f862A8d37c67991d658a3C5C09bD8C7366",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+        "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "price": 1956102898.0679061
+    },
+    {
+        "token0": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 1910838899.9752598
+    },
+    {
+        "token0": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1910838899.9725382
+    },
+    {
+        "token0": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1344761962.8985672
+    },
+    {
+        "token0": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 184415056.92569906
+    },
+    {
+        "token0": "0x76405B423d8E5Bf68ba8684C37d026D8c4136DCB",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 170000000.0
+    },
+    {
+        "token0": "0xB1bF54d4BeEB77E5b99Fd2CA7811191D80D79f88",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 124721913.0
+    },
+    {
+        "token0": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 80757286.0
+    },
+    {
+        "token0": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 56361742.124492235
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xDDE73732248f4d11A918eAE83cEBB034cC69875e",
+        "price": 45042427.75953445
+    },
+    {
+        "token0": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 19118725.0
+    },
+    {
+        "token0": "0x6a77Bf987BF9a0aF90586Ca72168f8dA5C0A7BCe",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 10059733.443569036
+    },
+    {
+        "token0": "0x870b372E8c1802165F44b6Cb11398D3D016Ed2E0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 7182261.292450779
+    },
+    {
+        "token0": "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 3227487.0
+    },
+    {
+        "token0": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2317485.303825945
+    },
+    {
+        "token0": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+        "token1": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+        "price": 2317485.303825945
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+        "price": 2263659.895292277
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+        "price": 2263659.8925707843
+    },
+    {
+        "token0": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1335104.6023200057
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+        "price": 255421.96563817814
+    },
+    {
+        "token0": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 55038.1590296411
+    },
+    {
+        "token0": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 47554.58793547057
+    },
+    {
+        "token0": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 45729.4
+    },
+    {
+        "token0": "0xad0887734461aF8C6033068bDE4047Dbe84074cc",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 36578.21816973492
+    },
+    {
+        "token0": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 4248.037312321734
+    },
+    {
+        "token0": "0x06da0fd433C1A5d7a4faa01111c044910A184553",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1171.2783516765148
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xe7689B2C21242e07870AAA0ffee1eC11833d5E24",
+        "price": 673.0571168769137
+    },
+    {
+        "token0": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+        "token1": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+        "price": 49.79465501820216
+    },
+    {
+        "token0": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 44.99777509893186
+    },
+    {
+        "token0": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 34.27729297093793
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+        "price": 15.51736204726423
+    },
+    {
+        "token0": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.767588368780703
+    },
+    {
+        "token0": "0x32Ce7e48debdccbFE0CD037Cc89526E4382cb81b",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.488549618320611
+    },
+    {
+        "token0": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 5.876904802017676
+    },
+    {
+        "token0": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.1851997575552784
+    },
+    {
+        "token0": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.4930525887932755
+    },
+    {
+        "token0": "0x370941BA0979187fd8Ab4487Cd76F5b95fe40E00",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.1757763300760042
+    },
+    {
+        "token0": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.0014070705422706
+    },
+    {
+        "token0": "0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.0
+    },
+    {
+        "token0": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.5674325840304659
+    },
+    {
+        "token0": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.3571255192329463
+    },
+    {
+        "token0": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.3306915820305267
+    },
+    {
+        "token0": "0x77745Eb70a555691e152732713f6c3f0cfe99819",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.30800026964635874
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+        "price": 0.24511608057621587
+    },
+    {
+        "token0": "0x0f956036A60E141c68BCa12f1C6c2b458A56BbB2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.23673846104722435
+    },
+    {
+        "token0": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.23543951984571665
+    },
+    {
+        "token0": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.23542827511017797
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "price": 0.20384047757438817
+    },
+    {
+        "token0": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.20371529396730967
+    },
+    {
+        "token0": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.20188796999844352
+    },
+    {
+        "token0": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.12011850563412768
+    },
+    {
+        "token0": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.11653410967787547
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+        "price": 0.10994991526549085
+    },
+    {
+        "token0": "0x7359EA6aF994BEF790CaeB8ae31619Ea20a8f7f3",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.07448000645063743
+    },
+    {
+        "token0": "0x5580ab97F226C324c671746a1787524AEF42E415",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.07182511129499762
+    },
+    {
+        "token0": "0x86338B9c31fCF015F26fafFE289FdC924A9A2a25",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.06875233256683129
+    },
+    {
+        "token0": "0x2D480Bb31d4796A11D9a50eAECaBb36ffd42Bc63",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.050078247261345854
+    },
+    {
+        "token0": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.05000407091354487
+    },
+    {
+        "token0": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.03866611123691562
+    },
+    {
+        "token0": "0x6b4389Afb3e243A65668B7311fA9Ef092A8a3B64",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.029159664222098182
+    },
+    {
+        "token0": "0x178c820f862B14f316509ec36b13123DA19A6054",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.026622415438559324
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xEe8A808C478d14aec57f874351177d80D02ce454",
+        "price": 0.026
+    },
+    {
+        "token0": "0x5D1b1019d0Afa5E6cc047B9e78081D44cc579FC4",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.02543929598960498
+    },
+    {
+        "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "price": 0.024440775125334283
+    },
+    {
+        "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.024315591518255776
+    },
+    {
+        "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "token1": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+        "price": 0.024315591518255776
+    },
+    {
+        "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "token1": "0xc76160CE8E26E0Cf61A78a5a749478D22d91461d",
+        "price": 0.024315591518255776
+    },
+    {
+        "token0": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.022155880761755217
+    },
+    {
+        "token0": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.02185131204425497
+    },
+    {
+        "token0": "0x5b3F693EfD5710106eb2Eac839368364aCB5a70f",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.02021357371540597
+    },
+    {
+        "token0": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "token1": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+        "price": 0.017497337594170662
+    },
+    {
+        "token0": "0x1caF613Ca9Be38F15bAC8D8b84415C2A664c5b83",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.015625
+    },
+    {
+        "token0": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.015541552895070433
+    },
+    {
+        "token0": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.014758436165692949
+    },
+    {
+        "token0": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.014716479064612124
+    },
+    {
+        "token0": "0x6c4B85CaB20c13aF72766025F0e17E0fe558A553",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.014562629075804715
+    },
+    {
+        "token0": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.013370502553600115
+    },
+    {
+        "token0": "0x429A7f20BBa23bDc910773177e0fB05a3789710F",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.012825554798598647
+    },
+    {
+        "token0": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.011130848048902473
+    },
+    {
+        "token0": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.010263050941582044
+    },
+    {
+        "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.00919630777963311
+    },
+    {
+        "token0": "0x1478C471c35f83a4CE3Cf17fE2Cd076571daf5E2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.009140179087416895
+    },
+    {
+        "token0": "0x435d0CA4d455209Dc9b53F09aCDb8D5D761df423",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.007951313662568774
+    },
+    {
+        "token0": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0078643179885048
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+        "price": 0.007778821644064421
+    },
+    {
+        "token0": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.007541558468239143
+    },
+    {
+        "token0": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.007098212028504414
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "price": 0.006911520733894256
+    },
+    {
+        "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "price": 0.006599998913368714
+    },
+    {
+        "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.006474815306290209
+    },
+    {
+        "token0": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.005627885246443545
+    },
+    {
+        "token0": "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.005587616549813333
+    },
+    {
+        "token0": "0x9C790A79916296CBA9D7e602933df09E0C4D6a29",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.005567637879361066
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+        "price": 0.004793756904244636
+    },
+    {
+        "token0": "0xBD0001Bb1a7EBDc64899161b48C60bcbef62004E",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.004243253696324632
+    },
+    {
+        "token0": "0x6b51Beeaa7D6704D48d088Ec95735e21459385f0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0041635760621640955
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xE7069E147CD7085abb493f7990c684029DEaDCdD",
+        "price": 0.003348536458634028
+    },
+    {
+        "token0": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.003223424957273128
+    },
+    {
+        "token0": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00316007061752266
+    },
+    {
+        "token0": "0x031BBeCC1b4a541aA8170E3dFbbD51c279BF4368",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.003052025973268806
+    },
+    {
+        "token0": "0xBB14B9B385ca3bd3668BbA114b555B3a3e1fA705",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0028524642121388
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.002846676080421406
+    },
+    {
+        "token0": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.002830199629950086
+    },
+    {
+        "token0": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+        "token1": "0xB3Fa04A6FE3df11147Dd12909D4D4ce0EaCE915a",
+        "price": 0.002830199629950086
+    },
+    {
+        "token0": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+        "token1": "0x4838e2A26Df75C8fa372a6c312aE516198EFEA21",
+        "price": 0.002830199629950086
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xdeFCb64c13442D40db6e45CF7fE1E064e5E360C9",
+        "price": 0.0027997886951928157
+    },
+    {
+        "token0": "0x2075ab08D7C74EEE8776b3726661C2B55413D721",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.0027219619393744664
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+        "price": 0.0027215023653015123
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xEF69B5697f2Fb0345cC680210fD39b593a2f9684",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0x8a727D058761F021Ea100a1c7b92536aC27b762A",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x339D73f9a0FBD064Ea81F274437760a9db934806",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0x774fb37e50DB4BF53b7C08e6B71007bf1F1D9a47",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x042aFd3869A47E2d5d42CC787D5c9E19DF32185F",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x5A9329C1985A63Bf5d7F461fA83180E70C748FB1",
+        "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "token1": "0x783Ba0062326861eE76E0e15429594922e9FE2F5",
+        "price": 0.002721492473342901
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+        "price": 0.002687435732516854
+    },
+    {
+        "token0": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+        "token1": "0xdCB5D9060f7A5a43b26328982EB71d7E449545FE",
+        "price": 0.002687435732516854
+    },
+    {
+        "token0": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.002270599605264038
+    },
+    {
+        "token0": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0022647024808196367
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "price": 0.0020873301073096443
+    },
+    {
+        "token0": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.002001734214846833
+    },
+    {
+        "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "token1": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
+        "price": 0.0019621465915720194
+    },
+    {
+        "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0019621465002311396
+    },
+    {
+        "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "token1": "0x78a685E0762096ed0F98107212e98F8C35A9D1D8",
+        "price": 0.0019621465002311396
+    },
+    {
+        "token0": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+        "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "price": 0.0019621465002311396
+    },
+    {
+        "token0": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0019557846991002303
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+        "price": 0.001602236269007561
+    },
+    {
+        "token0": "0x988DaDD0B82fA7d94d9e6f084A08755bFD4da860",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0015927660204486803
+    },
+    {
+        "token0": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0013040046495800537
+    },
+    {
+        "token0": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0012158372073591077
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "price": 0.0011872542644177234
+    },
+    {
+        "token0": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.001164577988238369
+    },
+    {
+        "token0": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0011116431959770987
+    },
+    {
+        "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0009703487500381369
+    },
+    {
+        "token0": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0009180488926291058
+    },
+    {
+        "token0": "0x50b379ec299E4585F2644EA6376D00b3C402c8cc",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.000738425168208585
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+        "price": 0.0007353615214523114
+    },
+    {
+        "token0": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0007272444978147249
+    },
+    {
+        "token0": "0x408e41876cCCDC0F92210600ef50372656052a38",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0005972323333431112
+    },
+    {
+        "token0": "0x23935765cDf2F7548F86042Ff053D16A22C4e240",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0005660498819792976
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+        "price": 0.0005327593114351191
+    },
+    {
+        "token0": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.000511913646377306
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
+        "price": 0.00047157915616782863
+    },
+    {
+        "token0": "0x837010619aeb2AE24141605aFC8f66577f6fb2e7",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0004368028672923206
+    },
+    {
+        "token0": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0004367386495212521
+    },
+    {
+        "token0": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00041724468445581705
+    },
+    {
+        "token0": "0x3e48F3513e6416Df787F6978545D2f2F902D39fd",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0004
+    },
+    {
+        "token0": "0x914f79F4fDFfe98a68B10B8327f7a571fA36405D",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0003968253968253968
+    },
+    {
+        "token0": "0x20bf12A7bdb6d7B84069fb3b939892A301C981d1",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00035019871427633575
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xf057D77Ba8ca6DC51427C1Dfd66dDba0664feD54",
+        "price": 0.00027814473214055535
+    },
+    {
+        "token0": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00024025951420581076
+    },
+    {
+        "token0": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00022019964768056372
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+        "price": 0.00018271897517374474
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xCEfF51756c56CeFFCA006cD410B03FFC46dd3a58",
+        "price": 0.000168507579043595
+    },
+    {
+        "token0": "0x81C0EdFa7aaBB17E4BB0cFb956116191c5B7543f",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.0001678285566744126
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+        "price": 0.00015099085428265155
+    },
+    {
+        "token0": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+        "token1": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+        "price": 0.00015099085428265155
+    },
+    {
+        "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00012518360707850472
+    },
+    {
+        "token0": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+        "token1": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+        "price": 0.00011743784201273556
+    },
+    {
+        "token0": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00011429822968946743
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+        "price": 0.00010736695501746828
+    },
+    {
+        "token0": "0x201850680b79bBEFf4e00684248B237a77bDED0C",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0.00010728487783286494
+    },
+    {
+        "token0": "0x889eFB523cc39590B8483EB9491890AC71407f64",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 9.544186980526465e-05
+    },
+    {
+        "token0": "0x7756Edf05Ef3c2b321A85D77B5cbF7c8A9a7C247",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 7.497014192107021e-05
+    },
+    {
+        "token0": "0xB72B31907C1C95F3650b64b2469e08EdACeE5e8F",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 7.356813205965333e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xce9aFAF5b0dA6cE0366aB40435A48ccff65d2ED7",
+        "price": 4.519510931107438e-05
+    },
+    {
+        "token0": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+        "token1": "0xce9aFAF5b0dA6cE0366aB40435A48ccff65d2ED7",
+        "price": 4.519510931107438e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+        "price": 4.493631881676253e-05
+    },
+    {
+        "token0": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 4.479958699489407e-05
+    },
+    {
+        "token0": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 4.4421267461275716e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xf6ec87DFE1Ed3a7256Cc0c38e3c8139103e9aF3b",
+        "price": 4.374676094526727e-05
+    },
+    {
+        "token0": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 3.921898309920901e-05
+    },
+    {
+        "token0": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 3.699406005626539e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+        "price": 3.121386812392388e-05
+    },
+    {
+        "token0": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.784810437268942e-05
+    },
+    {
+        "token0": "0xb9d4b4d710E47E6782f3FFD6740dfa65FD637C08",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.5e-05
+    },
+    {
+        "token0": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.4692462546907575e-05
+    },
+    {
+        "token0": "0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.278022500607205e-05
+    },
+    {
+        "token0": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.760258494896667e-05
+    },
+    {
+        "token0": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.6923955190260527e-05
+    },
+    {
+        "token0": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.4654859734673765e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xc6e2da4A9dBe3DFe5A0836B182e0a762A0F8ebd9",
+        "price": 1.4427591573065972e-05
+    },
+    {
+        "token0": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.4424534426744979e-05
+    },
+    {
+        "token0": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.326758665401212e-05
+    },
+    {
+        "token0": "0x058349297672B6cC7cCb6E59A679c5ADd74a6898",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.280262254077618e-05
+    },
+    {
+        "token0": "0x6509f9cDCd547b06482Fc79209c71C7C7493d5f1",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.264910128135396e-05
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+        "price": 1.1838326821028098e-05
+    },
+    {
+        "token0": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.0070886995267273e-05
+    },
+    {
+        "token0": "0x08DE69e5E9d08bb1Dff0b5a7c8CC6672df7c0412",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1e-05
+    },
+    {
+        "token0": "0x973e52691176d36453868D9d86572788d27041A9",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.817248554584216e-06
+    },
+    {
+        "token0": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 5.6125602389517985e-06
+    },
+    {
+        "token0": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 5.002574438551629e-06
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xD7F8032777C50aFD2e7AFa41912a4d8038127271",
+        "price": 2.0368097273723345e-06
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+        "price": 1.7128511837998697e-06
+    },
+    {
+        "token0": "0xB423c1fb5414f0711c71181995FF59FfA6D31146",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.293409668026985e-06
+    },
+    {
+        "token0": "0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1.1474911010704471e-06
+    },
+    {
+        "token0": "0x85ca6710D0F1D511d130f6935eDDA88ACBD921bD",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 1e-06
+    },
+    {
+        "token0": "0x804683B195f83868A21b6732fA68eAB4c738D864",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.805685908849619e-07
+    },
+    {
+        "token0": "0x98ad9B32dD10f8D8486927D846D4Df8BAf39Abe2",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.722957200291977e-07
+    },
+    {
+        "token0": "0x75019407B9f8f30f2b1fD3e4905A0A39eCC14817",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.713427705931896e-07
+    },
+    {
+        "token0": "0x2075ab08D7C74EEE8776b3726661C2B55413D721",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 4.6946603156503994e-07
+    },
+    {
+        "token0": "0x78c61af11Ada64b7C9154E4F1485579174dB8727",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.0810779733328306e-07
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xCb2286d9471cc185281c4f763d34A962ED212962",
+        "price": 1.2436466872912546e-07
+    },
+    {
+        "token0": "0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 9.171982935402895e-08
+    },
+    {
+        "token0": "0x05a599258ee8F54dE384516A5e8f61AdBF092ba6",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 8.094927304038393e-08
+    },
+    {
+        "token0": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 9.891958611135099e-09
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
+        "price": 7.511118969355078e-09
+    },
+    {
+        "token0": "0x4E26Ceb8A932114a95cfB682851b6e832f830062",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 6.4170800845488646e-09
+    },
+    {
+        "token0": "0x2854f5fe2D01393360cB0532c66D7721B3f48324",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 4.9353374710001695e-09
+    },
+    {
+        "token0": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 7.383543445962976e-10
+    },
+    {
+        "token0": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
+        "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "price": 7.383543445962976e-10
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xda4C5AEA122260e70616E979592735F12FE20499",
+        "price": 1e-10
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
+        "price": 9.134087956932606e-11
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
+        "price": 1.7097625824004536e-12
+    },
+    {
+        "token0": "0x92B914f1DDcBb1D117a718E83C9ED7eB32fc44d1",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 2.1054063884527565e-15
+    },
+    {
+        "token0": "0x566113069683Ce664958A784f18336B4020a1350",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0
+    },
+    {
+        "token0": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+        "token1": "0xEF69B5697f2Fb0345cC680210fD39b593a2f9684",
+        "price": 0
+    },
+    {
+        "token0": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
+        "token1": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+        "price": 0
+    },
+    {
+        "token0": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "token1": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+        "price": 0
+    },
+    {
+        "token0": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "token1": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+        "price": 0
+    },
+    {
+        "token0": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "token1": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+        "price": 0
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
+        "price": 0
+    },
+    {
+        "token0": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "token1": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
+        "price": 0
+    },
+    {
+        "token0": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0
+    },
+    {
+        "token0": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
+        "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+        "price": 0
+    },
+    {
+        "token0": "0x1DAAa369dC59Fb021C147C2A191e6d180e981cDF",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0
+    },
+    {
+        "token0": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+        "token1": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+        "price": 0
+    },
+    {
+        "token0": "0x4838e2A26Df75C8fa372a6c312aE516198EFEA21",
+        "token1": "0x6102407f07029892eB5Ff02164ADFaFb85f4d222",
+        "price": 0
+    },
+    {
+        "token0": "0x5A9329C1985A63Bf5d7F461fA83180E70C748FB1",
+        "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "price": 0
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xCF2b421011ffF1200bD8bf5B9Cdc7EA179F445ff",
+        "price": 0
+    },
+    {
+        "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "token1": "0xC94B0F0205AA1948341F06F899E662D80074d338",
+        "price": 0
+    },
+    {
+        "token0": "0xC94B0F0205AA1948341F06F899E662D80074d338",
+        "token1": "0xCF2b421011ffF1200bD8bf5B9Cdc7EA179F445ff",
+        "price": 0
+    }
+]

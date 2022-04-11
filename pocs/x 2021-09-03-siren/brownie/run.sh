@@ -1,0 +1,1 @@
+NUM=18675000 brownie console --network ploygon-fork
