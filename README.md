@@ -29,7 +29,7 @@ This repo contains my PoCs for some defi attacks. (for learning purposes only.)
 | 2022-01-28 | qbridge | | [brownie](/pocs/2022-01-28-qbridge/brownie) |
 
 
-**The following is in trouble:**
+**The followings are in trouble:**
 
 |Date|Protocol|Desc|PoCs|
 | :---: | :---: | :---: | :---: |
