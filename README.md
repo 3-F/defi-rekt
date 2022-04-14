@@ -39,4 +39,4 @@ This repo contains my PoCs for some defi attacks. (for learning purposes only.)
 | 2021-09-21 | vee | | [brownie](/pocs/x%202021-09-21-vee/brownie) |
 | 2022-02-07 | earnhub | | [brownie](/pocs/2022-02-07-earnhub/brownie), [hardhat](/pocs/x%202022-02-07-earnhub/hardhat) |
 
-Others is doing... Welcome Issue & Pr
+Others are doing... Welcome Issue & Pr
