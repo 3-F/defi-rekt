@@ -31,7 +31,7 @@ This repo contains my PoCs for some defi attacks. (for learning purposes only.)
 | 2020-04-18 | uniswapV1 | |[brownie](/pocs/2020-04-18-uniswapV1/brownie) |
 
 
-**The following is in trouble:**
+**The followings are in trouble:**
 
 |Date|Protocol|Desc|PoCs|
 | :---: | :---: | :---: | :---: |
