@@ -13,7 +13,6 @@ This repo contains my PoCs for some defi attacks. (for learning purposes only.)
 
 |Date|Protocol|Desc|PoCs|
 | :---: | :---: | :---: | :---: |
-
 | 2022-04-23 | akutar | call-in-loop & logic bug | [brownie](/pocs/2022-04-23-akutar/brownie/) |
 | 2022-01-28 | qbridge | | [brownie](/pocs/2022-01-28-qbridge/brownie) |
 | 2022-01-18 | crosswise | | [brownie](/pocs/2022-01-18-crosswise/brownie), [hardhat](/pocs/2022-01-18-crosswise/hardhat) |
