@@ -1,0 +1,34 @@
+project_structure:
+    build: build
+    contracts: contracts
+    interfaces: interfaces
+    scripts: scripts
+
+networks:
+    development:
+        gas_limit: max
+        gas_buffer: 1
+        gas_price: 0
+        max_fee: null
+        priority_fee: null
+        reverting_tx_gas_limit: max
+        default_contract_owner: true
+        cmd_settings:
+            port: 8824
+            gas_limit: 88888888888
+            accounts: 10
+            chain_id: 1
+            network_id: 1588949648
+            evm_version: istanbul
+            fork: $ARCHIVE_URL@$BLOCK_NUM
+            mnemonic: brownie
+            default_balance: 10000000000000
+            unlock: null
+
+dotenv: .env
+
+autofetch_sources: true
+
+compiler:
+  solc:
+    version: 0.8.13
