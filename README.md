@@ -26,6 +26,7 @@ This repo contains my PoCs for some defi attacks. (for learning purposes only.)
 | 2021-08-30 | cream | | [brownie](/pocs/2021-08-30-cream/brownie) |
 | 2021-08-25 | uniswap-router | | [brownie](/pocs/2021-08-25-uniswap-router/brownie) |
 | 2020-11-30 | sushi | | [brownie](/pocs/2020-11-30-sushi/brownie) |
+| 2020-11-12 | akropolis | Access Control & Untrusted External Call | [brownie](/pocs/2020-11-30-sushi/brownie) |
 | 2020-04-19 | lendfme | |[brownie](/pocs/2020-04-19-lendfme/brownie) |
 | 2020-04-18 | uniswapV1 | |[brownie](/pocs/2020-04-18-uniswapV1/brownie) |
 

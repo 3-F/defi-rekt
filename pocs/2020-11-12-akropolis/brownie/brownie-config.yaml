@@ -1,3 +1,9 @@
+project_structure:
+    build: build
+    contracts: contracts
+    interfaces: interfaces
+    scripts: scripts
+
 networks:
     development:
         gas_limit: max
@@ -11,7 +17,7 @@ networks:
             port: 8824
             gas_limit: 88888888888
             accounts: 10
-            chain_id: 1337
+            chain_id: 1
             network_id: 1588949648
             evm_version: istanbul
             fork: $ARCHIVE_URL@$BLOCK_NUM
@@ -24,12 +30,12 @@ dotenv: .env
 autofetch_sources: true
 
 # require OpenZepplin Contracts
-# dependencies:
-  # - OpenZeppelin/openzeppelin-contracts@4.0.0
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.0.0
 
   # path remapping to support OpenZepplin imports with NPM-style path
 compiler:
   solc:
     version: 0.8.3
-    # remappings:
-      # - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.0.0"
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.0.0"
